@@ -1,1 +1,1 @@
-# Customer_Classification_for_Car-Insurance-Campaign
+# This project is about the classification of customers for car insurance marketing campaign. 
