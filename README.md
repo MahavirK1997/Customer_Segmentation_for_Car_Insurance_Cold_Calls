@@ -1,4 +1,4 @@
-# Customer Car Insurance Cold Call Prediction
+# Customer Classification for Car Insurance Campaign
 
 ## Overview
 
