@@ -64,10 +64,6 @@ Evaluate model performance using metrics such as accuracy, F1 score, and ROC cur
 ### Best-Performing Models
 Neural Network, Logistic Regression, KNN, and CART.
 
-### Recommendation
-- Hyperparameter tuning for Neural Network may enhance performance.
-- Consider trade-offs between accuracy and computational efficiency during deployment.
-
 ## Summary
 
 Explore the code and findings to gain insights into predicting customer behavior for car insurance purchases. Clone the repository, run the code, and feel free to reach out with questions or suggestions.
