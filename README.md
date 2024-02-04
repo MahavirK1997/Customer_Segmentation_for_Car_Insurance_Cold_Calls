@@ -62,7 +62,7 @@ Evaluate model performance using metrics such as accuracy, F1 score, and ROC cur
 ## Model Comparison and Recommendation
 
 ### Best-Performing Models
-Neural Network, Logistic Regression, KNN, and CART.
+Logistic Regression
 
 ## Summary
 
