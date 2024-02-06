@@ -64,6 +64,8 @@ Evaluate model performance using metrics such as accuracy, F1 score, and ROC cur
 ### Best-Performing Models
 Logistic Regression
 
+In crafting this marketing campaign, we prioritize minimizing False Negatives (FN) to ensure optimal customer retention, given the assumption that marketing costs are outweighed by potential customer loss. Setting the Logistic Regression threshold at 0.1 significantly improves the recall score from 64% to 98%. We'll determine the optimum threshold aligned with business requirements, factoring in our marketing budget constraints.
+
 ## Summary
 
 Explore the code and findings to gain insights into predicting customer behavior for car insurance purchases. Clone the repository, run the code, and feel free to reach out with questions or suggestions.
