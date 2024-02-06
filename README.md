@@ -1,4 +1,4 @@
-# Customer Classification for Car Insurance Campaign
+# Customer Segmentation for Car Insurance Cold Calls
 
 ## Overview
 
